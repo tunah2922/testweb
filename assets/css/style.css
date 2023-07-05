@@ -227,8 +227,7 @@ color: #fff !important;
  margin-top: 46px;
  padding-top: 50%;
   /*50% chiều ngang của chính trang web*/
-background: url('./assets/css/img/slider/slider1.jpg') top center / cover no-repeat ;
-}
+background: url('../../assets/css/img/slider/slider1.jpg') top center / cover no-repeat ;}
     
 
 #Slider .text-content{
