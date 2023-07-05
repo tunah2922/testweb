@@ -96,9 +96,7 @@ clear: both;
 
 
 /* main */
-#Main{
 
-}
 
 .text-white{
 color: #fff !important;
@@ -227,7 +225,7 @@ color: #fff !important;
  margin-top: 46px;
  padding-top: 50%;
   /*50% chiều ngang của chính trang web*/
-background: url('/w3_band/assets/css/img/slider/slider1.jpg') top center / cover no-repeat ;
+background: url('../css/img/slider/slider1.jpg') top center / cover no-repeat ;
 }
     
 
@@ -252,9 +250,7 @@ margin-top: 25px;
 }
 
 
-#content{
 
-}
 
 #content .content-section{
     width: 800px;
